@@ -5,9 +5,8 @@ Este projeto é um projeto de uma api feito em dotnet, para listar os dados dos 
 {
   Id =1,
   Code = "DLN/DRN-003",
-  Name = "Cutman",
+  Name = "Kung fu Warrior",
   HP = 150,
-  Picture = "https://vignette.wikia.nocookie.net/megaman/images/2/22/Cutman.png"
 }
 ```
 
